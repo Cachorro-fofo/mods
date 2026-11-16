@@ -12,7 +12,10 @@ body:
     validations: {required: true}
   - type: input
     id: game
-    attributes: {label: Game, description: Game, version and loader, placeholder: "Minecraft 26.3, Fabric"}
+    attributes:
+      label: Game
+      description: "Game version and loader"
+      placeholder: "Minecraft 26.3, Fabric"
     validations: {required: true}
   - type: textarea
     id: what
