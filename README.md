@@ -5,6 +5,7 @@ Bug reports, questions and feature requests for all my mods and modpacks (Minecr
 - **Bug or crash:** [open a bug report](../../issues/new?template=bug.yml)
 - **Feature idea:** [open a feature request](../../issues/new?template=feature.yml)
 - **Question:** [ask in Discussions](../../discussions)
+- **Translation:** see [lang/](lang/) for the English files to translate
 
 Download the mods on [CurseForge](https://www.curseforge.com/members/tihomirdobrev/projects). Support: [Ko-fi](https://ko-fi.com/tihomirdobrev).
 
