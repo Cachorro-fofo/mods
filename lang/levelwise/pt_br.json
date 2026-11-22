@@ -1,6 +1,6 @@
 {
   "levelwise.levelup": "%s chegou ao nível %s! ",
-  "levelwise.perk_line": "Bôbus: %s",
+  "levelwise.perk_line": "Bônus: %s",
   "levelwise.title": "%s %s",
   "levelwise.milestone": "Marco!",
   "levelwise.level_up": "Subiu de nível",
@@ -11,7 +11,7 @@
   "levelwise.now.combat": "+%s%% dano, +%s corações",
   "levelwise.now.exploring": "+%s%% velocidade",
   "levelwise.now.drop": "%s%% chance de um segundo drop",
-  "levelwise.perk_now": "Bôbus: %s",
+  "levelwise.perk_now": "Bônus: %s",
   "levelwise.skill_perk": "%s: %s",
   "levelwise.click_top": "Click para mostrar os melhores jogadores",
   "levelwise.total": "Níveis Totais: %s",
